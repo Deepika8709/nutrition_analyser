@@ -3,7 +3,6 @@
 
 ## Overview
 The **Food Nutrition Analyzer** is a beginner-friendly Python project that analyzes the nutritional content of foods.  
-It helps answer questions such as:
 
 - Which foods are **high in protein**?  
 - Which foods are **low in sugar**?  
